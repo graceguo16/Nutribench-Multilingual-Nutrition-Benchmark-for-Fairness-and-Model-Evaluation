@@ -1,0 +1,2 @@
+# Nutribench-Multilingual-Nutrition-Benchmark-for-Fairness-and-Model-Evaluation
+Nutribench pro enables reproducible and transparent fairness analysis in multilingual nutrition datasets through structured querying, model evaluation, and bias quantification.  The project includes tools for loading, analyzing, and visualizing model outputs across nutrition-related queries, with a focus on linguistic and cultural bias detection.
